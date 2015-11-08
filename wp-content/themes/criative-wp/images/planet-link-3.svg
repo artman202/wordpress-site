@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="500px" height="500px" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
+<radialGradient id="SVGID_1_" cx="426.6494" cy="97.4922" r="749.7469" gradientTransform="matrix(0.6266 0.7793 -0.5074 0.408 208.7793 -274.787)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#D95F54"/>
+	<stop  offset="0.0832" style="stop-color:#BC564E"/>
+	<stop  offset="0.2617" style="stop-color:#854441"/>
+	<stop  offset="0.4353" style="stop-color:#563537"/>
+	<stop  offset="0.5999" style="stop-color:#322A2F"/>
+	<stop  offset="0.7533" style="stop-color:#182229"/>
+	<stop  offset="0.8911" style="stop-color:#081D25"/>
+	<stop  offset="1" style="stop-color:#031B24"/>
+</radialGradient>
+<circle fill="url(#SVGID_1_)" cx="250.15" cy="254.491" r="229.378"/>
+</svg>
